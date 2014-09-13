@@ -1,0 +1,4 @@
+manifest
+========
+
+what is SquatConf 
