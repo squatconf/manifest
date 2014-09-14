@@ -25,22 +25,21 @@ If you know for SURE that the wifi will be shaky ...
 
 you can get a 0 cost conference made with love,but a little rougher
 
-## Where / when ? 
+## Where / when ?
 
-A Squat in Paris, that will not yet be disclosed for obvious reasons ... 
+A Squat in Paris, that will not yet be disclosed for obvious reasons ...
 
-It will happened at the end of November.
+It will happened 2014 November 15th .
 
-## The plan 
+## The plan
 
-We are a bunch of crazy programers that believe in anarchy and distributed systems, conferences included. 
+We are a bunch of crazy programers that believe in anarchy and distributed systems, conferences included.
 
 We will provide a place, we will provide a context, some talks, and the rest will be up to you ...
 
-## Who is behind this 
+## Who is behind this
 
-SquatConf is an Idea that came after [LXJS](http://2014.lxjs.org/), It was a great conference, 
-and the organisation made one of the most amazing job, and after the final day of the event we ended up [dominictarr](https://github.com/dominictarr), [joates](https://github.com/joates) and [I](https://github.com/gorhgorh) talking about autonomous self driving boats when this idea came to live, now the idea mature and (insert list of interested folks here ... ^^) are in the loop
+SquatConf is an Idea that came after [LXJS](http://2014.lxjs.org/), It was a great conference, and the organisation made one of the most amazing job, and after the final day of the event we ended up [dominictarr](https://github.com/dominictarr), [joates](https://github.com/joates) and [I](https://github.com/gorhgorh) talking about autonomous self driving boats when this idea came to live, now the idea matured and some folks ([mmalecki](https://github.com/mmalecki),[no9](https://github.com/no9/),[substack](https://github.com/substack/)) are in the loop now.
 
 ## Ok so you are a bunch of idealist that will make a 10 ppl conference in a dump ...
 
@@ -49,43 +48,6 @@ What you will get out of SquatConf is, in the end literally what you will want p
 - Tickets will be on donation, you want a cheap conf give 0, you want provided food ...
 - this won't be a 400 ppl conf for sure, but do you NEED that much ppl ?
 - there are already speakers interested for who you would enjoy spend some bucks :)
-- you have idead to improve this thing ? they are gladly welcome. 
-- we plan to make it zero sum ... ie, we will split eventual benefit with atendees, ROI in a squat conference !!!
-
-
-## additional notes 
-
-so this is the first draft of what I think squatconf is, feel free to modify =)
-
-We have the venue almost secured, we should now think of a date ... the latter the better, considering that we have not yet enough speakers and no intendance. 
-
-what we could pull in this little time frame would be IMO 
-
-- single track
-- one / two day depending nbr of speakers
-- should be in a week end so volunteers/attendees don't blow holiday to help/attend.
-- 50 / 70 attendees (chairs, minimal internet/ local network)
-
-what I already have 
-
-- a space (we can talk about it but not here)
-- sound system for the room
-- video proj.
-- domain : [squatconf.eu](http://squatconf.eu/) 
-
-working on :
-
-- lights 
-
-needed : 
-
-- people, lots of em :)
-- website 
-- chairs 
-- minimal amount of food
-
-a we need to finalise this doc and remove this part so we start to talk about it
-
-we could create a gitter room to have an IRC like channel to chat with ppl that get involved and have history of our discutions. 
-
+- you have ideas to improve this thing ? they are gladly welcome. 
+- we plan to make it zero sum ... ie, we will split eventual benefit with attendees, ROI in a squat conference !!!
 
