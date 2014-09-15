@@ -39,7 +39,7 @@ We will provide a place, we will provide a context, some talks, and the rest wil
 
 ## Who is behind this
 
-SquatConf is an Idea that came after [LXJS](http://2014.lxjs.org/), It was a great conference, and the organisation made one of the most amazing job, and after the final day of the event we ended up [dominictarr](https://github.com/dominictarr), [joates](https://github.com/joates) and [I](https://github.com/gorhgorh) talking about autonomous self driving boats when this idea came to live, now the idea matured and some folks ([mmalecki](https://github.com/mmalecki),[no9](https://github.com/no9/),[substack](https://github.com/substack/)) are in the loop now.
+SquatConf is an Idea that came after [LXJS](http://2014.lxjs.org/), It was a great conference, and the organisation made an amazing job, and after the final day of the event we ended up [dominictarr](https://github.com/dominictarr), [joates](https://github.com/joates) and [I](https://github.com/gorhgorh) talking about autonomous self driving boats when this idea came to live, now the idea matured and some folks ([mmalecki](https://github.com/mmalecki),[no9](https://github.com/no9/),[substack](https://github.com/substack/), ...) are in the loop now.
 
 ## Ok so you are a bunch of idealist that will make a 10 ppl conference in a dump ...
 
@@ -50,4 +50,9 @@ What you will get out of SquatConf is, in the end literally what you will want p
 - there are already speakers interested for who you would enjoy spend some bucks :)
 - you have ideas to improve this thing ? they are gladly welcome. 
 - we plan to make it zero sum ... ie, we will split eventual benefit with attendees, ROI in a squat conference !!!
+
+## mhhh I want to talk here !!! 
+
+Please see [here](https://github.com/squatconf/talks) to propose a talk
+
 
