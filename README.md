@@ -1,6 +1,4 @@
-# The SquatConf Manifest 
-
-## What is SquatConf ?
+# What is SquatConf ?
 
 Some of us are lucky enough to attend to some marvellous conventions, made with love by amazing people, they give us some great event with top notch speakers, incredible venues, amazing parties.
 
