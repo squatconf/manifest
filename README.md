@@ -1,56 +1,55 @@
-# What is SquatConf ?
+# What is SquatConf?
 
-Some of us are lucky enough to attend to some marvellous conventions, made with love by amazing people, they give us some great event with top notch speakers, incredible venues, amazing parties.
+Some of us are lucky enough to attend marvellous conventions, made with love by amazing people. Great events with top-notch speakers, incredible venues, and amazing parties.
 
-Theses conferences are pulled out with a huge work by volunteers, some sponsors, so they can cut the cost of theses event to the minimum.
+These conferences are run with huge contributions from volunteers, and financial support from sponsors, providing top-notch events at affordable prices.
 
-the minimum is still a bit of money, money some don't have.
+But even then, they're not affordable for everyone.
 
-We came out with an alternative model for that ... SquatConf 
+We're building an alternative model: SquatConf.
 
-This will not be your everyday conference, but it will be a on donation with good talk from amazing people, and you will be able to contribute to it if you want too 
+SquatConf won't be your everyday conference, but we'll have good talks from amazing people. It'll be donation-based, and you'll get to contribute if you want to.
 
-## How can this be possible ?
+## How is this possible?
 
-Conference have huge cost to handle, and most of the time ticket prices are not even close to the real cost per attendee, see [this transparency report](http://2014.lxjs.org/about/) to understand how a 0 profit conference can pull that. Still it costs a pile of cash to do that
-Venues, transportation, hotels, food are really nice perks to have, but ...  
+Conferences costs are huge, and ticket prices are often [nowhere near the true per-attendee cost](http://2014.lxjs.org/about/), even for a non-profit conference.
 
-If you held a conference in a Squat,  
-If the Speakers advance their travel expenses,  
-If you host them in some Friend's home,  
-If you tell people to bring some food and   
-If you know for SURE that the wifi will be shaky ...  
+Fancy venues, transporation, hotels and food are really nice perks to have, but…
 
-you can get a 0 cost conference made with love,but a little rougher
+If you hold a conference in a squat…
+The speakers advance their travel expenses…
+Host in squatted spaces…
+Tell people to bring some food…
+And the wifi will be dodgy for sure…
 
-## Where / when ?
+You'll have a zero-cost conference made with love, but a little rougher around the edges.
 
-A Squat in Paris, that will not yet be disclosed for obvious reasons ...
+## Where and when?
 
-It will happened 2014 November 15th .
+November 15th 2014. A squat in Paris. For obvious reasons, we can't yet disclose where.
 
-## The plan
+## The Plan
 
-We are a bunch of crazy programers that believe in anarchy and distributed systems, conferences included.
+We are a bunch of crazy programers that believe in anarchy and decentralised systems, conferences included.
 
-We will provide a place, we will provide a context, some talks, and the rest will be up to you ...
+We will provide a space, we will provide a context, some talks, and the rest will be up to you…
 
-## Who is behind this
+## Who is behind this?
 
-SquatConf is an Idea that came after [LXJS](http://2014.lxjs.org/), It was a great conference, and the organisation made an amazing job, and after the final day of the event we ended up [dominictarr](https://github.com/dominictarr), [joates](https://github.com/joates) and [I](https://github.com/gorhgorh) talking about autonomous self driving boats when this idea came to live, now the idea matured and some folks ([mmalecki](https://github.com/mmalecki),[no9](https://github.com/no9/),[substack](https://github.com/substack/), ...) are in the loop now.
+The inception of SquatConf was at [LXJS](http://2014.lxjs.org/). It was a great conference, and the organisation did an amazing job, and after the final day of the event we ended up with [dominictarr](https://github.com/dominictarr), [joates](https://github.com/joates) and [I](https://github.com/gorhgorh) talking about autonomous self driving boats when this idea came to life. Now the idea matured and some folks ([mmalecki](https://github.com/mmalecki), [nathan7](https://github.com/nathan7), [no9](https://github.com/no9), [substack](https://github.com/substack), ...) are in the loop now.
 
-## Ok so you are a bunch of idealist that will make a 10 ppl conference in a dump ...
+## Okay, so you're a bunch of idealists, running a 10-people conference in a dump.
 
-What you will get out of SquatConf is, in the end literally what you will want put in SquatConf .
+What you'll get out of SquatConf is in the end exactly what you want to put into SquatConf.
 
-- Tickets will be on donation, you want a cheap conf give 0, you want provided food ...
-- this won't be a 400 ppl conf for sure, but do you NEED that much ppl ?
-- there are already speakers interested for who you would enjoy spend some bucks :)
-- you have ideas to improve this thing ? they are gladly welcome. 
-- we plan to make it zero sum ... ie, we will split eventual benefit with attendees, ROI in a squat conference !!!
+- Tickets will be donation-based. You want a cheap conference? Give us nothing. You want food? Contribute.
+- This won't be a 400-people event, but do you *need* that many people?
+- We already have speakers lined up you're probably prepared to pay for :)
+- You have ideas for improvements? Suggestions are always welcome.
+- We plan to make SquatConf zero-sum. We'll split any profits with attendees — ROI on a conference!
 
-## mhhh I want to talk here !!! 
+## I want to give a talk!
 
-Please see [here](https://github.com/squatconf/talks) to propose a talk
+Please see [our talks repository](https://github.com/squatconf/talks) to propose a talk.
 
 
