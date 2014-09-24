@@ -1,6 +1,6 @@
 # What is SquatConf?
 
-Some of us are lucky enough to attend marvellous conventions, made with love by amazing people. Great events with top-notch speakers, incredible venues, and amazing parties.
+Some of us are lucky enough to attend marvelous conventions, made with love by amazing people. Great events with top-notch speakers, incredible venues, and amazing parties.
 
 These conferences are run with huge contributions from volunteers, and financial support from sponsors, providing top-notch events at affordable prices.
 
