@@ -12,13 +12,12 @@ SquatConf won't be your everyday conference, but we'll have good talks from amaz
 
 ## How is this possible?
 
-Conferences costs are huge, and ticket prices are often [nowhere near the true per-attendee cost](http://2014.lxjs.org/about/), even for a non-profit conference.
+Conference costs are huge, and ticket prices are often [nowhere near the true per-attendee cost](http://2014.lxjs.org/about/), even for a non-profit conference.
 
-Fancy venues, transporation, hotels and food are really nice perks to have, but…
+Fancy venues, transportation, hotels and food are really nice perks to have, but…
 
 If you hold a conference in a squat…
 the speakers advance their travel expenses…
-host in squatted spaces…
 tell people to bring some food…
 and the wifi will be dodgy for sure…
 
@@ -36,11 +35,11 @@ We will provide a space, we will provide a context, some talks, and the rest wil
 
 ## Who is behind this?
 
-The inception of SquatConf was at [LXJS](http://2014.lxjs.org/). It was a great conference, and the organisation did an amazing job, and after the final day of the event we ended up with [dominictarr](https://github.com/dominictarr), [joates](https://github.com/joates) and [I](https://github.com/gorhgorh) talking about autonomous self driving boats when this idea came to life. Now the idea matured and some folks ([mmalecki](https://github.com/mmalecki), [nathan7](https://github.com/nathan7), [no9](https://github.com/no9), [substack](https://github.com/substack), ...) are in the loop now.
+The inception of SquatConf was at [LXJS](http://2014.lxjs.org/). It was a great conference, and the organisation did an amazing job, and after the final day of the event we ended up with [dominictarr](https://github.com/dominictarr), [joates](https://github.com/joates) and [I](https://github.com/gorhgorh) talking about autonomous self-driving boats when this idea came to life. Now the idea matured and some folks ([mmalecki](https://github.com/mmalecki), [nathan7](https://github.com/nathan7), [no9](https://github.com/no9), [substack](https://github.com/substack), ...) are in the loop now.
 
 ## Okay, so you're a bunch of idealists, running a 10-people conference in a dump.
 
-What you'll get out of SquatConf is in the end exactly what you want to put into SquatConf.
+What you'll get out of SquatConf is in the end exactly what you to put into SquatConf.
 
 - Tickets will be donation-based. You want a cheap conference? Give us nothing. You want food? Contribute.
 - This won't be a 400-people event, but do you *need* that many people?
