@@ -29,7 +29,7 @@ November 15th 2014. A squat in Paris. For obvious reasons, we can't yet disclose
 
 ## The Plan
 
-We are a bunch of crazy programers that believe in anarchy and decentralised systems, conferences included.
+We are a bunch of crazy programmers that believe in anarchy and decentralised systems, conferences included.
 
 We will provide a space, we will provide a context, some talks, and the rest will be up to you…
 
