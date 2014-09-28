@@ -39,7 +39,7 @@ The inception of SquatConf was at [LXJS](http://2014.lxjs.org/). It was a great 
 
 ## Okay, so you're a bunch of idealists, running a 10-people conference in a dump.
 
-What you'll get out of SquatConf is in the end exactly what you to put into SquatConf.
+What you'll get out of SquatConf is in the end exactly what you put into SquatConf.
 
 - Tickets will be donation-based. You want a cheap conference? Give us nothing. You want food? Contribute.
 - This won't be a 400-people event, but do you *need* that many people?
