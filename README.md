@@ -1,41 +1,50 @@
-# What is SquatConf?
+## What is SquatConf? It started in Paris Nov 2014 ...
 
-Some of us are lucky enough to attend marvelous conventions, made with love by amazing people. Great events with top-notch speakers, incredible venues, and amazing parties.
+Squatconf happened in November 2014 in Paris in a squat, hence the name.
+It wasn't your typical IT conference because it was mostly Just-in-Time-organized 
+by all the people who attend.  There were no advertisements from Sillicon
+Valley companies (or any others) and several people felt free to give somewhat
+radical talks on technologies and society, even openly associate with
+anarchism.  There also were a fair share of advanced tech talks on web
+Crypto, decentralized tech demos, internet of things, automatic garden
+planting systems and what not.  And we had many personal conversations 
+among each other which continue to this day.
 
-These conferences are run with huge contributions from volunteers, and financial support from sponsors, providing top-notch events at affordable prices.
+## ... and now we go to Berlin end april 2016!
 
-But even then, they're not affordable for everyone.
+We want to make another Squatconf happening happen around
+end April 2016 in Berlin.  Timing wise it's next to "re:publica" so that
+researchers and others who are going to this business conference can also 
+drop by at squatconf to participate in a more independent event.
+Berlin has gotten quite trendy, more expensive and squatting
+is much less happening than it used to.  But there still is lots of life
+and lazyness which hasn't been fully occupied by world-wide-capitalism
+yet.
 
-these are the intentions behind first squatconf, why would we want to pay expensive venue when we can organise this in a squat, creating a beneficial synergy in the process
+## Money and time
 
-This is almost what happened , but it did not ended as a more than a 'tech' conference ...  
+Whatever we need money wise we'll pay for it by asking
+for donations by all who come.  We'd like to keep it a somewhat small
+no-entrance-fee conference, collectively organized by those who attend,
+with a personal atmosphere.  Besides listening to good talks you can
+also have interesting conversations while preparing food for all in the
+kitchen.  We'd like nobody to get overly stressed which can happen all
+too easily if single individuals feel responsible for collective
+outcomes.  The most important commitment when coming to Squatconf is our
+time and dedication to create a space where things happen and people
+feel free to talk.  Btw, any kind of racist or sexist behaviour
+will receive fierce opposition.
 
-This is why squatconf will be on donation, because we belive that no one should ask for diversity tickets, and that Information wants to be free.
+## I want to help / I need help
 
-SquatConf won't be your everyday conference, but we'll have good talks from amazing people. It'll be donation-based, and you'll get to contribute if you want to.
+If you can help with organizing stuff in Berlin please come a few days earlier
+as some of us to.  Drop by at #squatconf on freenode and/or subscribe to the mailing list.
 
-## How is this possible?
-
-Conference costs are huge, and ticket prices are often [nowhere near the true per-attendee cost](http://2014.lxjs.org/about/), even for a non-profit conference.
-
-Fancy venues, transportation, hotels and food are really nice perks to have, but…
-
-If you hold a conference in a squat…
-the speakers advance their travel expenses…
-
-
-If you work with the available infrastructure and local community as much as possible, with a little help of everyone you'll have a zero-cost conference made with love, but a little rougher around the edges.
-
-## The Plan
-
-We are a bunch of crazy programmers that believe in decentralised systems, conferences included.
-
-We will provide a space, we will provide a context, some talks, and the rest will be up to you…
-
-## Who is behind this
-
-a bunch of ppl that had fun at the first one, or knew each others before, coming from loads of different horizons.
+If you need travel funding or a place to sleep please ask on the channel.
+If you bring a sleeping bag something should be possible but it's good
+if you tell before so that we have an idea on how many people need accomodation.
 
 ## I want to give a talk!
 
 Please see [our talks repository](https://github.com/squatconf/talks) to propose a talk.
+
