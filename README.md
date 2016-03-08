@@ -2,7 +2,7 @@
 
 Squatconf happened in November 2014 in Paris in a squat, hence the name.
 It wasn't your typical IT conference because it was mostly Just-in-Time-organized 
-by all the people who attend.  There were no advertisements from Sillicon
+by all the people who attend.  There were no advertisements from Silicon
 Valley companies (or any others) and several people felt free to give somewhat
 radical talks on technologies and society, even openly associate with
 anarchism.  There also were a fair share of advanced tech talks on web
@@ -38,7 +38,8 @@ will receive fierce opposition.
 ## I want to help / I need help
 
 If you can help with organizing stuff in Berlin please come a few days earlier
-as some of us to.  Drop by at #squatconf on freenode and/or subscribe to the mailing list.
+as some of us do.  Drop by at #squatconf on freenode and/or subscribe to the
+[mailing list](https://mailinglists.dyne.org/cgi-bin/mailman/listinfo/squatconf).
 
 If you need travel funding or a place to sleep please ask on the channel.
 If you bring a sleeping bag something should be possible but it's good
